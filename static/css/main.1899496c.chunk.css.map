@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/styles.css"],"names":[],"mappings":"AAAA,KACE,wBAAyB,CACzB,iBACF","file":"main.1899496c.chunk.css","sourcesContent":[".App {\n  font-family: Chakra Petch;\n  text-align: center;\n}\n"]}
